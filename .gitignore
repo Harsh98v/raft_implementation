@@ -1,3 +1,4 @@
 *.exe
 /data/
 .claude/
+raft-kv-store-spec.md
